@@ -71,6 +71,21 @@ YAML files for the carousel panels. Processed by the main theme.
 
 YAML files for sponsors. Processed by the main theme and [layouts/shortcodes/sponsors.html](layouts/shortcodes/sponsors.html)
 
+File naming convention: `<unique_numeric_id>.<name>.<level>.yaml`
+
+Contents:
+
+```
+name: "Sponsor name"
+name2: ""
+image: "/img/clients/sponsor_logo.png"
+name2: ""
+url: "https://sponsor_url.com"
+name2: ""
+level: "platinum" # one of: platinum|gold|silver|other|patronage|academic_supporter
+name2: ""
+```
+
 ## organizers
 
 YAML files for co-chairs and committee. Processed by [content/organizers.md](content/organizers.md), [layouts/shortcodes/cochairs.html](layouts/shortcodes/cochairs.html) and [layouts/shortcodes/committee.html](layouts/shortcodes/committee.html).
