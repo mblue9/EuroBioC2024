@@ -15,10 +15,11 @@ Bioconductor is a non-profit organization that supports one of the most widely u
 
 The conference is unique in that in addition to talks and poster session, the meeting features workshops which provide hands-on learning in Bioconductor.  All conference materials (videos, slides, talks, posters, workshops) are published online such that the conference provides a rich resource for learning Bioconductor. 
 
-> Interested in sponsoring EuroBioC2023? <br> 
+### Interested in sponsoring EuroBioC2024?
+
 Please contact <eurobioc@bioconductor.org>
 
-**Your sponsorship will help increase diversity and representation at the European Bioconductor Conference 2023** by:
+**Your sponsorship will help increase diversity and representation at the European Bioconductor Conference 2024** by:
 
 - Reducing registration costs for academic participants, trainees and especially students from countries outside CA, EEA, UK or US.
 - Funding travel scholarships for students, trainees and postdoctoral fellows from countries outside CA, EEA, UK or US.
@@ -28,7 +29,7 @@ Please contact <eurobioc@bioconductor.org>
 
 Three levels of sponsorship are available. Sponsors of all levels may present a poster highlighting the scientific interests of their organization in the poster sessions.
 
-**Platinum: 8,000 Euros**
+**Platinum: 7,000 GBP**
 
 - Poster session will be named after these donors.
 - Highest recognition, using your logo, on the website, and on printed promotional and scheduling material.
@@ -36,14 +37,14 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - A thank-you tweet including your preferred Twitter handle.
 <!-- A table during the poster session -->
 
-**Gold: 4,000 Euros**
+**Gold: 3,500 GBP**
 
 - Top recognition, using your logo, in the online and print conference promotional and scheduling material.
 - Up to 2 free registrations.
 - A thank-you tweet including your preferred Twitter handle.
 <!-- A table during the poster session -->
 
-**Silver: 1,500 Euros**
+**Silver: 1,500 GBP**
 
 - Sponsor names will be listed in the online and print promotional and scheduling material.
 - Academic discount on 2 registrations.
