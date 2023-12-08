@@ -31,6 +31,10 @@ Simone Bell
 | Johannes Rainer | &nbsp; | Kevin C. Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lieven Clement | &nbsp; | Maria Doyle |
 | ![](../img/organizers/MStadler_FMI0142.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/RobertCastelo.jpeg) | &nbsp; | ![](../img/organizers/RobertIvanek.jpg) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) |
 | Michael Stadler | &nbsp; | Oliver Crook | &nbsp; | Robert Castelo | &nbsp; | Robert Ivanek | &nbsp; | Simone Bell |
+| ![](../img/organizers/Wolfgang_Huber.jpg) | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+| Wolfgang Huber  | &nbsp; | &nbsp;  | &nbsp; | &nbsp; | &nbsp; | &nbsp;  | &nbsp; | &nbsp;  |
+
+
 
 <br/>
 
