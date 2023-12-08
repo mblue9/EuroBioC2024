@@ -25,7 +25,7 @@ Simone Bell
 
 |       |   |     |   |      |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) | &nbsp; | ![](../img/organizers/avatar.png) |
+| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) | &nbsp; | ![](../img/organizers/JamesDalgleish.png) |
 | Charlotte Soneson | &nbsp; | Dario Righelli | &nbsp; | E. Ravza Gur | &nbsp; | Helena L. Crowell | &nbsp; | James Dalgleish |
 | ![](../img/organizers/JohannesRainer.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/LievenClement.jpeg) | &nbsp; | ![](../img/organizers/MariaDoyle.jpeg) |
 | Johannes Rainer | &nbsp; | Kevin C. Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lieven Clement | &nbsp; | Maria Doyle |
