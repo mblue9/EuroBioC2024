@@ -8,7 +8,10 @@ View <!--the example at https://bioc2022.bioconductor.org/ and--> the correspond
 Run Hugo to preview the webpage locally.
 
 ```shell
+# UNIX
 rm -rf public; hugo --verbose; hugo server --disableFastRender --verbose
+# MS Windows
+rm -rf public; hugo --verbose; hugo.exe server --disableFastRender --verbose
 ```
 
 # Adding items to the schedule table
