@@ -25,14 +25,14 @@ Simone Bell
 
 |       |   |     |   |      |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) | &nbsp; | ![](../img/organizers/JamesDalgleish.png) |
-| Charlotte Soneson | &nbsp; | Dario Righelli | &nbsp; | E. Ravza Gur | &nbsp; | Helena L. Crowell | &nbsp; | James Dalgleish |
-| ![](../img/organizers/JohannesRainer.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/LievenClement.jpeg) |
-| Johannes Rainer | &nbsp; | Kevin Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lena Morrill Gavarro | &nbsp; | Lieven Clement |
-| ![](../img/organizers/MariaDoyle.jpeg) | &nbsp; | ![](../img/organizers/MStadler_FMI0142.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/RobertCastelo.jpeg) | &nbsp; | ![](../img/organizers/RobertIvanek.jpg) |
-| Maria Doyle | &nbsp; | Michael Stadler | &nbsp; | Oliver Crook | &nbsp; | Robert Castelo | &nbsp; | Robert Ivanek |
-| ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/Wolfgang_Huber.jpg) | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
-| Simone Bell  | &nbsp; | Wolfgang Huber  | &nbsp; | &nbsp; | &nbsp; | &nbsp;  | &nbsp; | &nbsp;  |
+| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/DavideRisso.JPG) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) |
+| Charlotte Soneson | &nbsp; | Dario Righelli | &nbsp; | Davide Risso | &nbsp; | E. Ravza Gur | &nbsp; | Helena L. Crowell |
+| ![](../img/organizers/JamesDalgleish.png) | &nbsp; | ![](../img/organizers/JohannesRainer.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/avatar.png) |
+| James Dalgleish | &nbsp; | Johannes Rainer | &nbsp; | Kevin Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lena Morrill Gavarro |
+| ![](../img/organizers/LievenClement.jpeg) | &nbsp; | ![](../img/organizers/MariaDoyle.jpeg) | &nbsp; | ![](../img/organizers/MStadler_FMI0142.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/RobertCastelo.jpeg) |
+| Lieven Clement | &nbsp; | Maria Doyle | &nbsp; | Michael Stadler | &nbsp; | Oliver Crook | &nbsp; | Robert Castelo |
+| ![](../img/organizers/RobertIvanek.jpg) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/Wolfgang_Huber.jpg) | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+| Robert Ivanek | &nbsp; | Simone Bell | &nbsp; | Wolfgang Huber | &nbsp; | &nbsp;  | &nbsp; | &nbsp;  |
 
 
 
