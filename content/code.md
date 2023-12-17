@@ -3,27 +3,39 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-This code of conduct was developed for the Bioconductor conferences. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
+This code of conduct was developed for the Bioconductor conferences. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/).
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
+
+To read the latest Code of Conduct in other languages, see the multilingual [Project-wide Code of Conduct statement for Bioconductor](https://bioconductor.github.io/bioc_coc_multilingual/).
 
 ## Social media policy
 
-Images and content from talks, workshops, and posters may be shared publicly through social media (Twitter, etc.). Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
+Images and content from talks, workshops, and posters may be shared publicly through social media (e.g., Mastodon).
+Videos will be released on the [Youtube Bioconductor channel](https://www.youtube.com/user/bioconductor). Please, inform the organizing committee as soon as possible if you don't wish your presentation material to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
-## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
+## The Bioconductor conference aims to provide a supportive, collegial, and harassment-free environment
 
-_Bioconductor_ is dedicated to providing a supportive, collegial, and harassment-free 
-conference experience for everyone, regardless of:
-* gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age, or religion. 
-* intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, etc.
+The Bioconductor community values
+an open approach to science that promotes 
 
-The Virtual Event Code of Conduct applies to BioC virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
+* sharing of ideas, code, software and expertise
+* collaboration
+* diversity and inclusivity
+* a kind and welcoming environment
+* community contributions
 
-Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
-at the discretion of the conference organizers. 
+In line with these values, Bioconductor is dedicated to providing a welcoming, supportive, collegial experience free of harassment, intimidation, and bullying regardless of:
 
-## Examples of unacceptable harassment, intimidation, and bullying behavior
+* identity: gender, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, body size, race, age, religion, language, etc.
+* intellectual position: approaches to data analysis, software preferences, coding style, scientific perspective, stage of career, etc.
+
+By participating in this community, you agree not to engage in behavior contrary to these values at any Bioconductor-sponsored event (in person or virtual, including but not limited to talks, workshops, poster sessions, social activities), electronic communication channels (including but not limited to community-bioc [Slack](https://slack.bioconductor.org/), the support site, online forums, package review site, and social media communications), or packages (including commits). Furthermore, we require all participants to have identifiable accounts in Bioconductor online forums. Accounts that do not adhere to this after request to de-anonymise may be deleted.
+
+We do not tolerate harassment, intimidation, or bullying of community members. Sexual language and imagery are not appropriate in presentations, communications or in online venues, including chats.
+
+Any person/s violating the Code of Conduct may be sanctioned or expelled temporarily or permanently from an electronic platform or event at the discretion of the Code of Conduct committee.
+
+#### _Examples of unacceptable harassment, intimidation, and bullying behavior_
 
 Harassment includes, but is not limited to:
 
@@ -32,50 +44,56 @@ Harassment includes, but is not limited to:
 * Harassing photography or recording
 * Sustained disruption of talks or other events
 * Unwelcome sexual attention
-* Advocating for, or encouraging, any of the above behavior 
+* Advocating for, or encouraging, any of the above behavior
 
 Intimidation and bullying include, but are not limited to:
 
-* Aggressive or browbeating behavior directed at someone during a public presentation
-* Mocking or insulting another person's intellect, work, perspective, or question/comment
-* Making reference to someone's gender, gender identity and expression, sexual orientation, disability, 
-physical appearance, body size, race, age, religion, or other personal attributes in the context of a scientific 
-discussion
+* Aggressive or browbeating behavior 
+* Mocking or insulting another person’s intellect, work, perspective, or question/comment
+* Making reference to someone’s gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or other personal attributes in the context of a scientific discussion
 * Deliberately making someone feel unwelcome
+* Trolling behaviour (deliberately inflammatory or offensive messages)
+* Sustained off-topic posts
 
-### Enforcement
+## Enforcement
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Anyone asked to stop harassing or intimidating behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, event organizers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the conference with no refund. 
+If a person contravene the Code of Conduct, the Code of Conduct committee retains the right to take any action that ensures a welcoming environment for all community members. This includes warning the alleged offender or temporary/permanent expulsion from the event and/or electronic platforms under Bioconductor’s control.
 
-Event organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants. 
+The Code of Conduct committee may take action to redress anything designed to, or with the clear impact of, disrupting an event or electronic communication platform or making the environment hostile for any community member.
 
-We expect participants to follow these rules at all event venues and event-related online activities.
+We expect everyone in the Bioconductor community to comply with the Code of Conduct when participating in Bioconductor events and online communication platforms.
 
-### Reporting
+## Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. 
-Harassment and other code of conduct violations reduce the value of our event for everyone. 
-We want you to be happy at our event. People like you make our event a better place. 
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. You can make a report either anonymously or personally. All reports will be reviewed by the Code of Conduct Committee and will be kept confidential.
 
-You can make a report either personally or anonymously. 
+#### _Electronically_
 
-#### Anonymous or Non-anonymous Report
+You can make an anonymous or non-anonymous report via the following link: https://forms.gle/gEWHBWnXvZbEdFsq5. It is a free-form text box that will be forwarded to the Code of Conduct Committee. Alternatively you can email the Code of Conduct Committee (code-of-conduct@bioconductor.org). If you are uncomfortable reporting to the Code of Conduct committee as a group, you can contact any individual committee member via email or a direct message on the community-bioc Slack channel. Please include screenshots/copies of all relevant electronic conversations whenever possible (you don’t need to compromise your anonymity!).
 
-You can make an anonymous or non-anonymous report here: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint). It is a free-form text box that will be forwarded to conference organizers.
+We can’t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.
 
-We can't follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence. 
+#### _Personal Report (for any Bioconductor events: in-person or virtual)_
 
-#### Personal Report
+You can make a personal report to any member of the event Code of Conduct committee present at an event. 
 
-You can make a personal report with any of the conference anti-harassment committee: Aedin Culhane, Levi Waldron, Lieven Clement and Laurent Gatto.
+When taking a personal report, we will ensure you are safe and cannot be overheard. We may involve other event staff to ensure your report is managed properly. Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone, and we won’t tell anyone who you are.
 
-When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we'll ask you to tell us about what happened. This can be upsetting, but we'll handle it as respectfully as possible, and you can bring someone to support you. You won't be asked to confront anyone, and we won't tell anyone who you are. 
+Our team will be happy to help you get the relevant support (e.g. help contacting hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event).
 
-Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
+We value your attendance and participation at Bioconductor events and in our community.
 
-For Code of Conduct in other languages, see [bioc_coc_multilingual](https://kevinrue.github.io/bioc_coc_multilingual/)
+#### _Ombudsperson_
+
+We understand that you may want a person unrelated to Bioconductor overseeing your conflict resolution. To facilitate this, the Code of Conduct Committee will appoint an ombudsperson from a different open source community than members of the Bioconductor project. While they do not have power to establish, change or set aside decisions made by the Code of Conduct Committee, they can assist community members by offering consultation, mediation, coaching and referrals to other resources. The ombudsperson can be contacted directly via email (see below) to ensure a confidential, impartial, informal and independent process. 
+
+#### _Incident procedure_
+
+The Code of Conduct Committee follows a standard procedure to deal with conflicts. 
+This procedure is briefly summarized [here](https://bioconductor.github.io/CodeOfConduct/incident_response.html). Incident procedures are based on the book "How to Respond to Code of Conduct Reports" by Valerie Aurora and Mary Gardiner.
+
 
 ### Code of Conduct violation reports 
 
@@ -83,12 +101,9 @@ For Code of Conduct in other languages, see [bioc_coc_multilingual](https://kevi
 * Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
 * Law enforcement emergency number: 911 (US) / 112 (EU)
 
-### Updates to the Code of Conduct
-[The Bioconductor Code of Conduct Committee](https://bioconductor.github.io/bioc_coc_multilingual/index.html) provide the most recent version of the Code of Conduct and translations in several languages. 
-
-### Code of Conduct Bioconductor Conference Committee
+### EuroBioC2024 Code of Conduct Committee
 
 |       |   |     |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|
-| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/LievenClement.jpeg) |
-| [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=EuroBioC%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=EuroBioC%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC%20Code-of-conduct) | &nbsp; | [Lieven Clement](mailto:Lieven.Clement@UGent.be?subject=EuroBioC%20Code-of-conduct)
+| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
+| [Kevin Rue-Albrecht](mailto:kevin.rue-albrecht@imm.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp;  |  | &nbsp; |  | &nbsp; |  |
