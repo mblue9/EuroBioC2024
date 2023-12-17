@@ -3,15 +3,17 @@ title = "Schedule"
 description = "Schedule"
 +++
 
+<!-- Uncomment after abstract are added
 ## Links to abstracts
 
 + [All short talk abstracts](../tags/short-talk/)
 + [All package demo abstracts](../tags/package-demo/)
 + [All poster abstracts](../tags/poster)
 
-<!-- {{< schedule date="Wednesday, September 4, 2024" day="day1">}}  -->
-<!-- {{< schedule date="Thursday, September 5, 2024" day="day2">}}  -->
-<!-- {{< schedule date="Friday, September 6, 2024" day="day3">}} -->
+{{< schedule date="Wednesday, September 4, 2024" day="day1">}} 
+{{< schedule date="Thursday, September 5, 2024" day="day2">}} 
+{{< schedule date="Friday, September 6, 2024" day="day3">}}
+-->
 
 
 The indications below are approximate and will be more precise and detailed closer to the conference.

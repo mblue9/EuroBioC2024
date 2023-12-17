@@ -87,7 +87,8 @@ YAML files for the carousel panels. Processed by the main theme.
 
 ## clients
 
-YAML files for sponsors. Processed by the main theme and [layouts/shortcodes/sponsors.html](layouts/shortcodes/sponsors.html)
+YAML files for sponsors.
+Processed by the main theme and [layouts/shortcodes/sponsors.html](layouts/shortcodes/sponsors.html)
 
 File naming convention: `<unique_numeric_id>.<name>.<level>.yaml`
 
@@ -110,7 +111,19 @@ YAML files for co-chairs and committee. Processed by [content/organizers.md](con
 
 ## speakers
 
-YAML files for each speaker. Processed by [layouts/partials/speakers.html](layouts/partials/speakers.html).
+YAML files for each speaker.
+Processed by [layouts/partials/speakers.html](layouts/partials/speakers.html).
+
+File naming convention: `<unique_numeric_id>.yaml`
+
+Contents:
+
+```
+text: "Biography including link to web page."
+name: "FirstName LastName, Keynote"
+position: "Position, Institution"
+avatar: "img/speakers/avatar.png"
+```
 
 ## Registration and payment
 
