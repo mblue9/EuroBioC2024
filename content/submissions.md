@@ -64,7 +64,7 @@ Inclusion of the [Bioconductor logo](https://www.bioconductor.org/about/logo/) a
 
 Classical poster printed on paper to be stuck to a wall, approximate size A0.
 
-Poster presenters are encouraged to submit their poster to the [Bioconductor EuroBioC4 conference gateway on F1000Research](https://f1000research.com/gateways/bioconductor/for-authors/publish-your-research).
+Poster presenters are encouraged to submit their poster to the [Bioconductor EuroBioC2024 conference gateway on F1000Research](https://f1000research.com/gateways/bioconductor/for-authors/publish-your-research).
 The submission is free, and published posters on F1000Research will receive a digital object identifier (DOI). 
 For more details, please refer to the [Poster & Slides Guidelines](https://f1000research.com/gateways/bioconductor/for-authors/posters-and-slides-guidelines).
 Inclusion of the [Bioconductor logo](https://www.bioconductor.org/about/logo/) and/or [#EuroBioC2024](https://f1000research.com/search?q=EuroBioC2024) tag is encouraged. 
