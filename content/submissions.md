@@ -37,13 +37,13 @@ description = "Submissions"
 
 Birds-of-a-feather sessions are free-format, organizer-lead interactive discussions on a topic relevant to the Bioconductor community.
 Birds-of-a-feather sessions can be proposed until **September XX**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
-In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
 
-Refer to <https://github.com/Bioconductor/EuroBioC2023/issues> for examples submitted last year.
+In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
+You may refer to <https://github.com/Bioconductor/EuroBioC2023/issues> for examples submitted last year.
 
 ### Short talk
 
-12 min talk, focused on a package, an application note, or a current research presentation.
+10 min talk immediately followed by 5 min of questions, focused on a package, an application note, or a current research presentation.
 Presentations seeking collaboration or input from the community are encouraged.
 
 Presenters are encouraged to submit their slides to the [Bioconductor EuroBioC2024 conference gateway on F1000Research](https://f1000research.com/gateways/bioconductor/for-authors/publish-your-research).
