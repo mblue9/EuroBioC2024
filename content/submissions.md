@@ -39,6 +39,8 @@ Birds-of-a-feather sessions are free-format, organizer-lead interactive discussi
 Birds-of-a-feather sessions can be proposed until **September XX**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
 In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
 
+Refer to <https://github.com/Bioconductor/EuroBioC2023/issues> for examples submitted last year.
+
 ### Short talk
 
 12 min talk, focused on a package, an application note, or a current research presentation.
