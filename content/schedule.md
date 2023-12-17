@@ -3,37 +3,39 @@ title = "Schedule"
 description = "Schedule"
 +++
 
+## Links to abstracts
+
 + [All short talk abstracts](../tags/short-talk/)
 + [All package demo abstracts](../tags/package-demo/)
 + [All poster abstracts](../tags/poster)
 
-{{< schedule date="Wednesday, September 20, 2023" day="day1">}} 
-{{< schedule date="Thursday, September 21, 2023" day="day2">}} 
-{{< schedule date="Friday, September 22, 2023" day="day3">}}
+<!-- {{< schedule date="Wednesday, September 4, 2024" day="day1">}}  -->
+<!-- {{< schedule date="Thursday, September 5, 2024" day="day2">}}  -->
+<!-- {{< schedule date="Friday, September 6, 2024" day="day3">}} -->
 
-<!--
+
 The indications below are approximate and will be more precise and detailed closer to the conference.
 
-## Wednesday, September 20, 2023
+## Wednesday, September 4, 2024
 
-~8:30: Start day 1
+<strong>Approx. 9:15:</strong> Start day 1
 
-~17:30: End day 1
+<strong>Approx. 17:30:</strong> End day 1
 
-Conference dinner (to be confirmed)
+<strong>Conference dinner</strong> (to be confirmed)
 
-## Thursday, September 21, 2023
+## Thursday, September 5, 2024
 
-~8:30: Start day 2
+<strong>Approx. 9:00:</strong> Start day 2
 
-~17:30: End day 2
+<strong>Approx. 17:30:</strong> End day 2
 
-## Friday, September 22, 2023
+## Friday, September 6, 2024
 
-Developer day - more flexible program including Birds-of-a-Feather and discussion sessions related to a variety of topics.
--->
+<strong>Developer day:</strong> more flexible program including hackathon and discussion sessions related to a variety of topics.
 
-<!--
+
+<!-- backup (2022)
 + [All short talks](../tags/short-talk/)
 + [All workshops and package demos](../workshops/)
 + Conference videos will appear on the [R Consortium](https://www.youtube.com/c/RConsortium) YouTube channel - subscribe!
@@ -43,7 +45,8 @@ Developer day - more flexible program including Birds-of-a-Feather and discussio
 {{< schedule date="Friday, July 29, 2022" day="day3">}}
 -->
 
-<!--The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
+<!-- backup (2020-2021)
+The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
 
 Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min, Long workshops are 90 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 

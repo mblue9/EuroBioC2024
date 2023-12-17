@@ -64,7 +64,22 @@ YAML files that need to be adjusted for each conference.
 
 ## abstracts
 
-YAML files for every event. `Workshop_paper` are processed by [content/workshops.md](content/workshops.md) and [layouts/shortcodes/workshops.html](layouts/shortcodes/workshops.html). All events are processed by [layouts/shortcodes/schedule.html](layouts/shortcodes/schedule.html).
+YAML files for every event.
+`Workshop_paper` are processed by [content/workshops.md](content/workshops.md) and [layouts/shortcodes/workshops.html](layouts/shortcodes/workshops.html).
+All events are processed by [layouts/shortcodes/schedule.html](layouts/shortcodes/schedule.html).
+
+File naming convention: `<day[:digit:]+>_<HHMM>_<type>_paper[:digit:]+.yaml`.
+
+Examples:
+
+- `day1_0915_OpeningSession.yaml`
+- `day1_0930_Keynote.yaml`
+- `day1_1015_Shorttalk_paper19.yaml`
+- `day1_1030_Coffeebreak.yaml`
+
+Documentation needed:
+
+- `day1_1015_Shorttalkstrack_track1.yaml` : What does this do? How are tracks managed?
 
 ## carousel
 
