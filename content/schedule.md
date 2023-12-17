@@ -24,7 +24,7 @@ The indications below are approximate and will be more precise and detailed clos
 
 <strong>Approx. 17:30:</strong> End day 1
 
-<strong>Conference dinner</strong> (to be confirmed)
+<strong>Evening event</strong> (to be confirmed)
 
 ## Thursday, September 5, 2024
 
