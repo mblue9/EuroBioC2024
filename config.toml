@@ -123,21 +123,27 @@ paginate = 50
 
 [[menu.topbar]]
     weight = 3
-    name = "Twitter"
-    url = "https://twitter.com/Bioconductor"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
+    name = "Mastodon"
+    url = "https://genomic.social/@bioconductor"
+    pre = "<i class='fab fa-2x fa-mastodon'></i>"
 
 [[menu.topbar]]
     weight = 4
-    name = "Email"
-    url = "mailto:eurobioc@bioconductor.org"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
+    name = "Linkedin"
+    url = "https://www.linkedin.com/company/bioconductor/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
 
 [[menu.topbar]]
     weight = 5
     name = "Slack"
     url = "https://slack.bioconductor.org/"
     pre = "<i class='fab fa-2x fa-slack'></i>"
+
+[[menu.topbar]]
+    weight = 6
+    name = "Email"
+    url = "mailto:workshop@bioconductor.org"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
