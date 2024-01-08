@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-### General registration for EuroBioC2023 is open.
+### General registration for EuroBioC2024 is open.
 
 #### Registration fees
 
