@@ -5,13 +5,11 @@ description = "Submissions"
 
 ## Call for abstracts
 
-<!--
-[Submit your abstract here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2023/Conference)
--->
+[Submit your abstract here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2024/Conference)
 
-* **February XX**: Call for abstracts opens
-* **May XX (5pm BST)**: Call for abstracts closes
-* **May XX**: Notification of abstract decision
+* **February 1**: Call for abstracts opens
+* **April 26 (5pm BST)**: Call for abstracts closes
+* **May 15**: Notification of abstract decision
 * **September XX**: Submission of Birds-of-a-Feather sessions closes
 
 <!--
