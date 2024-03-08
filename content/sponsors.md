@@ -31,29 +31,31 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 
 **Platinum: 7,000 GBP**
 
-- Poster session will be named after these donors.
+<!-- - Poster session will be named after these donors.
 - Highest recognition, using your logo, on the website, and on printed promotional and scheduling material.
 - Up to 3 free registrations and participation in the conference evening event.
-- Thank you posts on our social media platforms including your preferred account handle.
+- Thank you posts on our social media platforms including your preferred account handle. -->
 <!-- - Up to 3 free registrations and participation in the social dinner. (disabled in 2024, replaced by 'evening event' above) -->
 <!-- A table during the poster session -->
 
 **Gold: 3,500 GBP**
 
-- Top recognition, using your logo, in the online and print conference promotional and scheduling material.
+<!-- - Top recognition, using your logo, in the online and print conference promotional and scheduling material.
 - Up to 2 free registrations.
-- Thank you posts on our social media platforms including your preferred account handle.
+- Thank you posts on our social media platforms including your preferred account handle. -->
 <!-- A table during the poster session -->
 
 **Silver: 1,500 GBP**
 
-- Sponsor names will be listed in the online and print promotional and scheduling material.
+<!-- - Sponsor names will be listed in the online and print promotional and scheduling material.
 - Academic discount on 2 registrations.
-- Thank you posts on our social media platforms including your preferred account handle.
+- Thank you posts on our social media platforms including your preferred account handle. -->
 
 <!-- backup (2023)
 _The organisers will follow local and state guidelines and will only host in-person events if it is safe to do so._
 -->
+
+Please contact us at <eurobioc@bioconductor.org> for more details about sponsorship options.
 
 ***
 
