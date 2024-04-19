@@ -25,7 +25,7 @@ Simone Bell
 
 |       |   |     |   |      |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/DavideRisso.JPG) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) |
+| ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/Dario_Righelli.jpg) | &nbsp; | ![](../img/organizers/DavideRisso.JPG) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/HelenaCrowell.png) |
 | Charlotte Soneson | &nbsp; | Dario Righelli | &nbsp; | Davide Risso | &nbsp; | E. Ravza Gur | &nbsp; | Helena L. Crowell |
 | ![](../img/organizers/JamesDalgleish.png) | &nbsp; | ![](../img/organizers/JohannesRainer.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/LenaMorrillGavarro.jpg) |
 | James Dalgleish | &nbsp; | Johannes Rainer | &nbsp; | Kevin Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lena Morrill Gavarro |
