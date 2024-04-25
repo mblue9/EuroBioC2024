@@ -16,9 +16,15 @@ If you are registering as a private person and will not get reimbursed by your e
 
 In case of doubts, double check with your employer before registration or send us an email.
 
-{{< registrationForm >}}
+<!-- {{< registrationForm >}} -->
 
-For inquiries related to conference registration, organisation, or certificates of attendance, please contact us at eurobioc (at) embl.org. 
+For inquiries related to conference registration, organisation, or certificates of attendance, please contact us at <eurobioc@bioconductor.org>.
+
+<br/>
+
+<center>
+A link to the registration page will appear here when registration is open.
+</center>
 
 ## Cancellation Policy
 

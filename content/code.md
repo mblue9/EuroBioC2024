@@ -105,5 +105,5 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 
 |       |   |     |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|
-| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
-| [Kevin Rue-Albrecht](mailto:kevin.rue-albrecht@imm.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp;  |  | &nbsp; |  | &nbsp; |  |
+| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LenaMorrillGavarro.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) |
+| [Kevin Rue-Albrecht](mailto:kevin.rue-albrecht@imm.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp;  | [Lena Morrill Gavarro](mailto:lena.morrillgavarro@ndcls.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp; | [Charlotte Soneson](mailto:charlotte.soneson@fmi.ch?subject=EuroBioC%20code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC%20code-of-conduct) |
