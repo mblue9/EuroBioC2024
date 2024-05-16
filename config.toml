@@ -89,11 +89,18 @@ paginate = 50
     weight = 8
 
 [[menu.main]]
+    identifier = "travel"
+    parent = "about"
+    name = "Travel information"
+    url  = "/travel/"
+    weight = 9
+
+[[menu.main]]
     identifier = "conferences"
     parent = "about"
     name = "Past events"
     url  = "/conferences/"
-    weight = 9
+    weight = 10
 
 #[[menu.main]]
 #    identifier = "conferences"

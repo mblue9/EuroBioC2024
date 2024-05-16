@@ -98,12 +98,12 @@ This procedure is briefly summarized [here](https://bioconductor.github.io/CodeO
 ### Code of Conduct violation reports 
 
 * Email: [code-of-conduct@bioconductor.org](mailto:code-of-conduct@bioconductor.org?subject=EuroBioC%23code-of-conduct)
-* Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
-* Law enforcement emergency number: 911 (US) / 112 (EU)
+* Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://forms.gle/gEWHBWnXvZbEdFsq5)
+* Law enforcement emergency number: 112 (EU) / 911 (US)
 
 ### EuroBioC2024 Code of Conduct Committee
 
 |       |   |     |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|
-| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
-| [Kevin Rue-Albrecht](mailto:kevin.rue-albrecht@imm.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp;  |  | &nbsp; |  | &nbsp; |  |
+| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LenaMorrillGavarro.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) |
+| [Kevin Rue-Albrecht](mailto:kevin.rue-albrecht@imm.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp;  | [Lena Morrill Gavarro](mailto:lena.morrillgavarro@ndcls.ox.ac.uk?subject=EuroBioC%20code-of-conduct) | &nbsp; | [Charlotte Soneson](mailto:charlotte.soneson@fmi.ch?subject=EuroBioC%20code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC%20code-of-conduct) |
