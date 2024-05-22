@@ -36,13 +36,14 @@ To book a room in Keble College, please email accommodation@keble.ox.ac.uk direc
 
 #### New College
 
-- Bed and Breakfast (provided in College Hall).
-- Ensuite Room.
-- Pay by 1<sup>st</sup> of June to guarante a spot.
-- Recently completed in the [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quadrangles).
-- 5 minutes walk to venue.
-- 5 minutes walk to centre of town.
-- Generous 20% discount has been negotiated from regular price.
+For accommodation at New College:
+
+- Payment Deadline: Pay by 1<sup>st</sup> June to guarantee a spot.
+- Bed and Breakfast: Private ensuite room with breakfast in the College Hall.
+- Location: Recently completed in the "Quadrangle", just a 5-minute walk to the venue and the centre of town.
+- Discount: We’ve negotiated a generous 20% discount off the regular price.
+
+More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quadrangles).
 
 ## Cancellation Policy
 
