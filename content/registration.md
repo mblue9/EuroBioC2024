@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-### General registration for EuroBioC2024 is open.
+### General registration for EuroBioC2024 is open!
 
 <!-- #### Registration fees -->
 
@@ -26,6 +26,23 @@ If you are registering as a private person and will not get reimbursed by your e
 <!-- {{< registrationForm >}} -->
 
 For inquiries related to conference registration, organisation, or certificates of attendance, please contact us at <eurobioc@bioconductor.org>.
+
+### Accommodation
+
+Accommodation was arranged with [New College](https://www.new.ox.ac.uk/) and [Keble College](https://www.keble.ox.ac.uk/).
+
+Rooms in New College can be booked directly as part of the registration process (see registration link above).
+To book a room in Keble College, please email accommodation@keble.ox.ac.uk directly and quote 'STAT2024'.
+
+#### New College
+
+- Bed and Breakfast (provided in College Hall).
+- Ensuite Room.
+- Pay by 1<sup>st</sup> of June to guarante a spot.
+- Recently completed in the [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quadrangles).
+- 5 minutes walk to venue.
+- 5 minutes walk to centre of town.
+- Generous 20% discount has been negotiated from regular price.
 
 ## Cancellation Policy
 
