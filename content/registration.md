@@ -38,7 +38,7 @@ To book a room in Keble College, please email accommodation@keble.ox.ac.uk direc
 
 For accommodation at New College:
 
-- Payment Deadline: Pay by 1<sup>st</sup> June to guarantee a spot.
+- Payment Deadline: Pay by 3<sup>rd</sup> June to guarantee a spot.
 - Bed and Breakfast: Private ensuite room with breakfast in the College Hall.
 - Location: Recently completed in the "Quadrangle", just a 5-minute walk to the venue and the centre of town.
 - Discount: We’ve negotiated a generous 20% discount off the regular price.
