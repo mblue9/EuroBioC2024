@@ -24,6 +24,10 @@ x <- schedule[, select_cols, drop = FALSE]
 x$paper <- tolower(x$paper)
 x$abstract <- gsub('"', "'", x$abstract)
 x$paper <- ifelse(is.na(x$paper), "", x$paper)
+x$authors <- ifelse(is.na(x$authors), "", x$authors)
+x$affiliation <- ifelse(is.na(x$affiliation), "", x$affiliation)
+x$talks <- ifelse(is.na(x$talks), "", x$talks)
+x$abstract <- ifelse(is.na(x$abstract), "", x$abstract)
 x <- x[which(x$session_type != ''),]
 
 x$github <- ifelse(is.na(x$github), '', x$github)
