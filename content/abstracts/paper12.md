@@ -1,6 +1,6 @@
 ---
-title: "Unraveling Immunogenomic Diversity in Single-Cell Data"
-tags: ["Short talk"]
+title: "Compositional analyses of the Human Cell Atlas with sccomp"
+tags: ["Package demo"]
 type: "blog"
 draft: false
 ---

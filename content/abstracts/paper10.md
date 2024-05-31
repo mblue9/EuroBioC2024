@@ -1,6 +1,6 @@
 ---
-title: "PredictIO: A Package For Meta-Analysis of Immunotherapy Clinical Trials in Cancer"
-tags: ["Short talk"]
+title: "Optimizing Machine Learning Models for Enhanced Prediction of Cardiometabolic Diseases from Multiomics Data"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

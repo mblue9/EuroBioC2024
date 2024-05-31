@@ -1,6 +1,6 @@
 ---
-title: "Democratising Knowledge Representation with BioCypher"
-tags: ["Short talk"]
+title: "Deciphering tumour cell interactions and communications from the gene expression profiles of single cells RNA sequencing data"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

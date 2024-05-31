@@ -1,6 +1,6 @@
 ---
-title: "Rarr: A native R reader for Zarr"
-tags: ["Short talk"]
+title: "Differential Correlation Analysis and Biological Function Inference on Single Cell Proteomics"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

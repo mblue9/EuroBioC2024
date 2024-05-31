@@ -1,6 +1,6 @@
 ---
-title: "Bioconductor 4.0: Aspirational anatomy of a computational ecosystem for genomic data science"
-tags: ["Birds of a Feather"]
+title: "Development of a Convolutional Neural Network for Automated Copy Number Variants Validation and its Application in the UKB"
+tags: ["Short talk"]
 type: "blog"
 draft: false
 ---

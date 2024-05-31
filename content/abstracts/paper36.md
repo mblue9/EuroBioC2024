@@ -1,6 +1,6 @@
 ---
-title: "Data fission for post-clustering differential analysis using dearseq"
-tags: ["Short talk"]
+title: "miaverse – microbiome analysis framework within the SummarizedExperiment ecosystem"
+tags: ["Package demo"]
 type: "blog"
 draft: false
 ---

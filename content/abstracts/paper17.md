@@ -1,5 +1,5 @@
 ---
-title: "fmsne: fast multi-scale neighbour embedding in R"
+title: "An Open Software Development-based Ecosystem of R Packages for Proteomics Data Analysis"
 tags: ["Poster"]
 type: "blog"
 draft: false

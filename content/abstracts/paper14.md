@@ -1,5 +1,5 @@
 ---
-title: "Multi-omic Integration and Analysis of cBioPortal and TCGA data with MultiAssayExperiment"
+title: "SpaceTrooper, an R package for the preprocessing and quality control of imaging-based spatial transcriptomics data"
 tags: ["Package demo"]
 type: "blog"
 draft: false

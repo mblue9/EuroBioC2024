@@ -1,6 +1,6 @@
 ---
-title: "iSEEing is believing: the iSEE package for efficient, interactive, and reproducible exploration of data"
-tags: ["Package demo"]
+title: "Streamlining LC-MS/MS Data Analysis in R with Open-Source *xcms* and *RforMassSpectrometry*: An End-to-End Workflow"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

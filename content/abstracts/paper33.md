@@ -1,6 +1,6 @@
 ---
-title: "ScalablePCA: Benchmarking principal component analysis for large-scale single-cell RNA-sequencing data"
-tags: ["Poster"]
+title: "Integrating DNA methylation with RNA-seq in lungs: Demonstrating the tidyomics ecosystem"
+tags: ["Package demo"]
 type: "blog"
 draft: false
 ---

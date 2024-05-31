@@ -1,5 +1,5 @@
 ---
-title: "Multi-omics integration: a regression based approach"
+title: "Facilitating multi-omic analyses in microbiome research with MultiAssayExperiment"
 tags: ["Poster"]
 type: "blog"
 draft: false

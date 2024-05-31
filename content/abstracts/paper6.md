@@ -1,6 +1,6 @@
 ---
-title: "demuxSNP: supervised demultiplexing of scRNAseq data using cell hashing and SNPs"
-tags: ["Short talk"]
+title: "Experiences with Bioconductor-Python interoperability"
+tags: ["Package demo"]
 type: "blog"
 draft: false
 ---

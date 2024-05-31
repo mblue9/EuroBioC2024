@@ -1,6 +1,6 @@
 ---
-title: "Microbiome data integration workflow for population cohort studies"
-tags: ["Package demo"]
+title: "msqrob2SCP: a flexible workflow for addressing the hierarchical correlation in SCP data"
+tags: ["Short talk"]
 type: "blog"
 draft: false
 ---

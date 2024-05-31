@@ -1,6 +1,6 @@
 ---
-title: "Differential Accessible Regions analysis of single-cell 10X Genomics multiome data"
-tags: ["Package demo"]
+title: "BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis"
+tags: ["Short talk"]
 type: "blog"
 draft: false
 ---

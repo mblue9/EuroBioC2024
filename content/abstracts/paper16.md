@@ -1,5 +1,5 @@
 ---
-title: "GeDi - Improving gene set distances accounting for network-based information"
+title: "Conformal inference for cell type prediction leveraging the cell ontology"
 tags: ["Short talk"]
 type: "blog"
 draft: false

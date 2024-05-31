@@ -1,5 +1,5 @@
 ---
-title: "Alignment of Spatial Transcriptomics data with the alignProMises R package"
+title: "Enhancing Robustness in Differential Abundance Testing for Microbiome Data Analysis through Consensus-Based Approach"
 tags: ["Poster"]
 type: "blog"
 draft: false

@@ -1,6 +1,6 @@
 ---
-title: "msqrob2PTM: differential abundance and differential usage analysis of MS-based proteomics data at the post-translational modification and peptidoform level"
-tags: ["Short talk"]
+title: "NetworkHub: a one-stop-shop to retrieve and use protein-protein interaction network data in Bioconductor"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

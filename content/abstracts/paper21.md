@@ -1,6 +1,6 @@
 ---
-title: "Juggling with offsets unlocks bulk RNA-seq tools for fast and scalable differential usage and aberrant splicing analyses"
-tags: ["Short talk"]
+title: "Zero-configuration genomic data science with bioc2u"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

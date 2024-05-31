@@ -1,6 +1,6 @@
 ---
-title: "Spectra: an expandable infrastructure to handle mass spectrometry data"
-tags: ["Package demo"]
+title: "gINTomics visualizer, a powerful shiny app for multiomics data integration visualization."
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

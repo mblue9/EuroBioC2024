@@ -1,6 +1,6 @@
 ---
-title: "Analysis of multi-condition single-cell data with latent embedding multivariate regression"
-tags: ["Short talk"]
+title: "mosdef: a collection of MOSt frequently used and useful Differential Expression Functions"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Evaluating the efficacy of methodologies for Deconvolution of transcriptional profiles: A benchmarking study"
-tags: ["Short talk"]
+title: "iSEEfier: Starting to use iSEE became even easier"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Assessing differences in cell type/state abundance: compositionality, heteroscedasticity and bias"
+title: "Uncovering mitochondrial activity by transcriptome data with mitology"
 tags: ["Short talk"]
 type: "blog"
 draft: false

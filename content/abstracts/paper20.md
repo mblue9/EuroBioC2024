@@ -1,6 +1,6 @@
 ---
-title: "DESpace: a sensitive approach to discover spatially variable genes"
-tags: ["Short talk"]
+title: "From Cancer-Testis genes to Cancer-Testis enhancers"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

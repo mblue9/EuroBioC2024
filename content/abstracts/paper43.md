@@ -1,6 +1,6 @@
 ---
-title: "T.A.R.D.I.S.: Targeted Analysis and Raw Data Integration in Mass Spectrometry"
-tags: ["Short talk"]
+title: "Navigating and expanding the iSEE universe"
+tags: ["Package demo"]
 type: "blog"
 draft: false
 ---

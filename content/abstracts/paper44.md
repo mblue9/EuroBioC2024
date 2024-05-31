@@ -1,5 +1,5 @@
 ---
-title: "consICA: multimodal data deconvolution, integration and elucidation of biological processes in cancer research"
+title: "PASTA: Pattern Analysis for Spatial Omics Data"
 tags: ["Poster"]
 type: "blog"
 draft: false

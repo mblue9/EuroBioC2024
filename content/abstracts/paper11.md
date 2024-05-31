@@ -1,6 +1,6 @@
 ---
-title: "cytomapper/cytoviewer: R/Bioconductor packages for visualization and exploration of highly multiplexed imaging data"
-tags: ["Package demo"]
+title: "Pancancer network analysis reveals key master regulators for cancer invasiveness"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

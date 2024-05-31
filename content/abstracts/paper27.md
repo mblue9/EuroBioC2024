@@ -1,5 +1,5 @@
 ---
-title: "Identification and analysis of gene and genome duplications with the doubletrouble Bioconductor package"
+title: "crupR: a Bioconductor package to predict condition-specific enhancers from ChIP-seq experiments"
 tags: ["Short talk"]
 type: "blog"
 draft: false

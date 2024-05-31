@@ -1,6 +1,6 @@
 ---
-title: "Linear models for single-cell proteomics"
-tags: ["Short talk"]
+title: "CENTRE: A Bioconductor package for cell type specific enhancer-promoter prediction"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Neutralise: an open science initiative for neutral comparison of two-sample tests"
-tags: ["Short talk"]
+title: "scpGUI and QFeaturesGUI: Graphical Interfaces for Single-Cell and Bulk Proteomics"
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---

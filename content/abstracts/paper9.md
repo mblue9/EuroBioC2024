@@ -1,6 +1,6 @@
 ---
-title: "CytoPipeline: Building and visualizing automated pre-processing and quality control pipelines for flow cytometry data"
-tags: ["Package demo"]
+title: "Pedixplorer: A modern R BioConductor package for efficient kinship analysis to draw and request complex pedigrees"
+tags: ["Short talk"]
 type: "blog"
 draft: false
 ---

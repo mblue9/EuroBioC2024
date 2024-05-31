@@ -1,5 +1,5 @@
 ---
-title: "Differential detection workflows for multi-patient single-cell RNA-seq data"
+title: "Enhancing Test Development in Bioconductor Packages with roxytest and biocroxytest"
 tags: ["Short talk"]
 type: "blog"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "A mixed-cell control design to assess data processing in single-cell proteomics"
+title: "Bulk vs single-cell proteomics: is there a need for identification optimization?"
 tags: ["Poster"]
 type: "blog"
 draft: false

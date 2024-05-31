@@ -1,6 +1,6 @@
 ---
-title: "DifferentialRegulation: a novel approach to identify differentially regulated genes"
-tags: ["Poster"]
+title: "Benchmark of single-cell RNA-seq analysis workflows: evaluating scalability across R and Python"
+tags: ["Short talk"]
 type: "blog"
 draft: false
 ---

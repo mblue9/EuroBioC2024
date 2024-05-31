@@ -1,6 +1,6 @@
 ---
-title: "The R for Mass Spectrometry initiative: from raw data to identifications and quantitative proteomics data analysis"
-tags: ["Package demo"]
+title: "Comprehensive and standardised workflow for single-cell proteomics data analysis using scp and scplainer."
+tags: ["Poster"]
 type: "blog"
 draft: false
 ---
