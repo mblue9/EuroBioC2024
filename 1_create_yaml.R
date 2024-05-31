@@ -1,10 +1,14 @@
 
 library(stringr)
+library(googlesheets4)
 
-url <- 'https://docs.google.com/spreadsheets/d/1E2ZrjRzNBFHlqERUkLucCRezCer_Ze-qpYmQMGbSyIU/gviz/tq?tqx=out:csv&sheet=2023'
-fname <- tempfile()
-download.file(url = url, destfile = fname, quiet = TRUE)
-schedule <- read.csv(fname)
+# url <- 'https://docs.google.com/spreadsheets/d/15R_gjBGueck6mQl0yDnMe3e0kfQ57StTRhKoVIsFoFw/gviz/tq?tqx=out:csv&sheet=2024'
+# fname <- tempfile()
+# download.file(url = url, destfile = fname, quiet = TRUE)
+# schedule <- read.csv(fname)
+
+## Make sure to authenticate with gs4_auth() before reading sheet
+schedule <- read_sheet("https://docs.google.com/spreadsheets/d/15R_gjBGueck6mQl0yDnMe3e0kfQ57StTRhKoVIsFoFw")
 
 select_cols <- c(
     'day',
@@ -19,6 +23,7 @@ select_cols <- c(
 x <- schedule[, select_cols, drop = FALSE]
 x$paper <- tolower(x$paper)
 x$abstract <- gsub('"', "'", x$abstract)
+x$paper <- ifelse(is.na(x$paper), "", x$paper)
 x <- x[which(x$session_type != ''),]
 
 x$github <- ifelse(is.na(x$github), '', x$github)
@@ -52,7 +57,7 @@ message('Creating yaml files in ', output_dir)
 
 #use "" instead of NAs
 scheduleBlank <- schedule #make copy
-# scheduleBlank[is.na(scheduleBlank)] <- "" 
+# scheduleBlank[is.na(scheduleBlank)] <- ""
 
 ##  datetime to character
 scheduleBlank$time <- sub("^.+ (.+):00", "\\1", scheduleBlank$time)
@@ -69,43 +74,43 @@ if (!file.exists(output_dir)) {
 iCount = 1
 
 while (iCount <= nrow(scheduleBlank)) {
-    
+
     oneRow <- scheduleBlank[iCount, ]
-    
+
     fileNameSpace <- paste(oneRow$day, "_",
                            oneRow$time, "_",
                            oneRow$session_type,"_",
                            oneRow$paper,
-                           ".yaml", 
+                           ".yaml",
                            sep = "" )
-    fileNameFinal <- gsub(" |:", '', fileNameSpace) 
-    # fileNameFinal <- str_replace_all(string = fileNameSpace, 
-    # pattern =  c(" |:"), 
+    fileNameFinal <- gsub(" |:", '', fileNameSpace)
+    # fileNameFinal <- str_replace_all(string = fileNameSpace,
+    # pattern =  c(" |:"),
     # replacement =   '')
-    
+
     fileNameFinal <- sub("_.yaml$", ".yaml", fileNameFinal)
-    
+
     iCount2 = 1
     while (iCount2 <= ncol(oneRow)) {
-        
-        
+
+
         oneValueName <- names(oneRow)[iCount2]
         oneValue <- paste("\"",unlist(oneRow[iCount2]),"\"", sep = "")
-        
+
         if (oneValueName == "talks" && any(grepl("paper", oneValue))) {
             oneValue <- sub("^\"(.+)\"$", "\\1", oneValue)
         }
-        
+
         # write to file for the first time. Create new file
         if (iCount2 == 1) {
             # create file , no append
             line <- paste0(oneValueName, ": ", oneValue)
-            write.table(line, col.names = FALSE, row.names = FALSE, 
-                        file = paste(output_dir, 
-                                     fileNameFinal, sep = ""), 
-                        append = FALSE, 
+            write.table(line, col.names = FALSE, row.names = FALSE,
+                        file = paste(output_dir,
+                                     fileNameFinal, sep = ""),
+                        append = FALSE,
                         quote = FALSE, )
-            
+
         } else {
             # append to existing file
             line <- paste0(oneValueName, ": ", oneValue)
@@ -113,10 +118,10 @@ while (iCount <= nrow(scheduleBlank)) {
                 x = line, col.names = FALSE, row.names = FALSE,
                 file = paste0(output_dir, fileNameFinal), append = TRUE, quote = FALSE
             )
-        } 
-        
+        }
+
         iCount2 <- iCount2 + 1
     }
-    
+
     iCount <- iCount + 1
 }
