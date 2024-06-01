@@ -1,5 +1,5 @@
 ---
-title: "Poster session 1"
+title: "Poster pitches and poster session 1"
 tags: ["Posters"]
 type: "blog"
 draft: false
