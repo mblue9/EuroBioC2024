@@ -1,9 +1,8 @@
 +++
-title = "Schedule"
+title = "Preliminary schedule"
 description = "Schedule"
 +++
 
-<!-- Uncomment after abstract are added
 ## Links to abstracts
 
 + [All short talk abstracts](../tags/short-talk/)
@@ -13,9 +12,8 @@ description = "Schedule"
 {{< schedule date="Wednesday, September 4, 2024" day="day1">}} 
 {{< schedule date="Thursday, September 5, 2024" day="day2">}} 
 {{< schedule date="Friday, September 6, 2024" day="day3">}}
--->
 
-
+<!-- 
 The indications below are approximate and will be more precise and detailed closer to the conference.
 
 ## Wednesday, September 4, 2024
@@ -35,6 +33,7 @@ The indications below are approximate and will be more precise and detailed clos
 ## Friday, September 6, 2024
 
 <strong>Developer day:</strong> more flexible program including hackathon and discussion sessions related to a variety of topics.
+-->
 
 
 <!-- backup (2022)
