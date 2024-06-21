@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-### General registration for EuroBioC2024 is open!
+## General registration for EuroBioC2024 is open!
 
 <!-- #### Registration fees -->
 
@@ -45,9 +45,23 @@ For accommodation at New College:
 
 More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quadrangles).
 
-## Cancellation Policy
+<hr/>
+
+## Carpentries workshops {.carpentries}
+
+### Register
+
+<center>
+<!-- A link to the registration page will appear here when registration is open. -->
+Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>.
+</center>
+
+### Accommodation
+
+Please note that registration to these workshops does not include accommodation.
+
+<hr/>
+
+### Cancellation Policy
 
 Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
-
-
-
