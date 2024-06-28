@@ -16,6 +16,14 @@ description = "Registration"
 Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/eurobioc2024" target="_blank">Oxford University Store</a>.
 </center>
 
+### Fee
+
+|   |   |
+| :----- | :-- |
+| Junior Researcher Undergraduate or postgraduate students and postdocs	| **£100.00** |
+| Academic / Non-profit Researchers from academic and other non-profit institutions | **£250.00** |
+| Industry / For-profit Researchers from the commercial sector | **£500.00** |
+
 <br/>
 
 <!-- **Important**:  If your employer will pay the invoice by bank transfer or reimburse you for the costs, use the name of the institute/company/university and corresponding institutional address.
@@ -55,6 +63,14 @@ More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quad
 <!-- A link to the registration page will appear here when registration is open. -->
 Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>.
 </center>
+
+### Fee
+
+|   |   |
+| :----- | :-- |
+| Introduction to R and Bioconductor	| **£100.00** |
+| Introduction to the Bioconductor project | **£100.00** |
+| RNA-seq analysis with Bioconductor | **£100.00** |
 
 ### Accommodation
 
