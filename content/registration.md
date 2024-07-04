@@ -37,10 +37,9 @@ For inquiries related to conference registration, organisation, or certificates 
 
 ### Accommodation
 
-Accommodation was arranged with [New College](https://www.new.ox.ac.uk/) and [Keble College](https://www.keble.ox.ac.uk/).
+Accommodation was arranged with [New College](https://www.new.ox.ac.uk/).
 
 Rooms in New College can be booked directly as part of the registration process (see registration link above).
-To book a room in Keble College, please email accommodation@keble.ox.ac.uk directly and quote 'STAT2024'.
 
 #### New College
 
