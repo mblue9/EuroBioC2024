@@ -60,16 +60,17 @@ More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quad
 
 <center>
 <!-- A link to the registration page will appear here when registration is open. -->
-Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>.
+<!-- Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>. -->
+Please follow the links below to apply to each individual workshop.
 </center>
 
 ### Fee
 
-|   |   |
-| :----- | :-- |
-| Introduction to R and Bioconductor	| **£100.00** |
-| Introduction to the Bioconductor project | **£100.00** |
-| RNA-seq analysis with Bioconductor | **£100.00** |
+|   |   |   |
+| :----- | :-- | :-- |
+| Introduction to R and Bioconductor	| **£100.00** | [Apply][bioc-intro-register] |
+| Introduction to the Bioconductor project | **£100.00** | [Apply][bioc-rnaseq-register] |
+| RNA-seq analysis with Bioconductor | **£100.00** | [Apply][bioc-project-register] |
 
 ### Accommodation
 
@@ -80,3 +81,7 @@ Please note that registration to these workshops does not include accommodation.
 ### Cancellation Policy
 
 Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
+
+[bioc-intro-register]: https://bioconductor.github.io/2024-09-02-BiocIntro-EuroBioc/
+[bioc-rnaseq-register]: https://bioconductor.github.io/2024-09-02-RNASeq-EuroBioc/
+[bioc-project-register]: https://bioconductor.github.io/2024-09-03-BiocProject-EuroBioc/
