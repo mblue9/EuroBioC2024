@@ -61,7 +61,7 @@ More info: New College [Gradel Quadrangles](https://www.new.ox.ac.uk/gradel-quad
 <center>
 <!-- A link to the registration page will appear here when registration is open. -->
 <!-- Registration is now open via the <a href="https://www.oxforduniversitystores.co.uk/conferences-and-events/statistics/statistics/bioconductor-carpentries-workshops" target="_blank">Oxford University Store</a>. -->
-Please follow the links below to apply to each individual workshop.
+Please follow the links below to apply to each individual workshop. Note: You do not need to register for the conference to attend the workshops.
 </center>
 
 ### Fee
