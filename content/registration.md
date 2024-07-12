@@ -69,8 +69,8 @@ Please follow the links below to apply to each individual workshop. Note: You do
 |   |   |   |
 | :----- | :-- | :-- |
 | Introduction to R and Bioconductor	| **£100.00** | [Apply][bioc-intro-register] |
-| Introduction to the Bioconductor project | **£100.00** | [Apply][bioc-rnaseq-register] |
-| RNA-seq analysis with Bioconductor | **£100.00** | [Apply][bioc-project-register] |
+| RNA-seq analysis with Bioconductor | **£100.00** | [Apply][bioc-rnaseq-register] |
+| Introduction to the Bioconductor project | **£100.00** | [Apply][ bioc-project-register] |
 
 ### Accommodation
 
