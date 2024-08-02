@@ -32,8 +32,7 @@ description = "Submissions"
 
 ### Flashtalk
 
-Flashtalks are very short presentations (5 min or less) that may be submitted up until the day of the session,
-granted on a first come, first served basis.
+Flashtalks are very short presentations (5 min or less) that may be submitted up until the day of the session, granted on a first come, first served basis.
 
 Please refer to the [conference schedule](../schedule/) for the date and time of the flashtalk session.
 
