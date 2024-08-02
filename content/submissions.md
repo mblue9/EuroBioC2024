@@ -5,12 +5,12 @@ description = "Submissions"
 
 ## Call for abstracts
 
-[Submit your abstract here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2024/Conference)
+<!-- [Submit your abstract here](https://openreview.net/group?id=bioconductor.org/EuroBioC/2024/Conference) -->
 
 * **February 1**: Call for abstracts opens
 * **April 26 (5pm BST)**: Call for abstracts closes
 * **May 8**: Notification of abstract decision
-* **September XX**: Submission of Birds-of-a-Feather sessions closes
+* **September 01**: Submission of Birds-of-a-Feather sessions closes
 
 <!--
 **Important Dates**
@@ -30,11 +30,27 @@ description = "Submissions"
 
 ## Submission types
 
+### Flashtalk
+
+Flashtalks are very short presentations (5 min or less) that may be submitted up until the day of the session.
+
+Please refer to the [conference schedule](../schedule/) for the date and time of the flashtalk session.
+
+Slides must be either publicly accessible online or uploaded to a shared Google Drive.
+Presenters will not be allowed to connect their own laptop.
+
+Conference delegates already scheduled to present a short talk or poster are welcome to submit flashtalks.
+
+<center>
+Submit a flashtalk using this <a href="https://forms.gle/TxRc5HDEi9Mhppp47">Google Form</a>.
+</center>
+
 ### Birds-of-a-feather
+
 <!-- ### Birds-of-a-feather - Submission open! -->
 
 Birds-of-a-feather sessions are free-format, organizer-lead interactive discussions on a topic relevant to the Bioconductor community.
-Birds-of-a-feather sessions can be proposed until **September XX**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
+Birds-of-a-feather sessions can be proposed until **September 01**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
 
 In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
 You may refer to <https://github.com/Bioconductor/EuroBioC2023/issues> for examples submitted last year.
