@@ -38,6 +38,7 @@ Please refer to the [conference schedule](../schedule/) for the date and time of
 
 Slides must be either publicly accessible online or uploaded to a shared Google Drive.
 Presenters will not be allowed to connect their own laptop.
+We advise presenters to keep presentations simple (e.g., avoid animations where possible).
 
 Conference delegates already scheduled to present a short talk or poster are welcome to submit flashtalks.
 
