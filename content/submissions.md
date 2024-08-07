@@ -10,7 +10,7 @@ description = "Submissions"
 * **February 1**: Call for abstracts opens
 * **April 26 (5pm BST)**: Call for abstracts closes
 * **May 8**: Notification of abstract decision
-* **September 1**: Submission of Birds-of-a-Feather sessions closes
+* **September 5**: Submission of Birds-of-a-Feather sessions closes
 
 <!--
 **Important Dates**
@@ -51,7 +51,7 @@ Submit a flashtalk using this <a href="https://forms.gle/TxRc5HDEi9Mhppp47">Goog
 <!-- ### Birds-of-a-feather - Submission open! -->
 
 Birds-of-a-feather sessions are free-format, organizer-lead interactive discussions on a topic relevant to the Bioconductor community.
-Birds-of-a-feather sessions can be proposed until **September 01**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
+Birds-of-a-feather sessions can be proposed until **September 5**, by filing an issue in <https://github.com/bioconductor/eurobioc2024>.
 
 In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
 You may refer to <https://github.com/Bioconductor/EuroBioC2023/issues> for examples submitted last year.
