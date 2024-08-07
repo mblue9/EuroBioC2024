@@ -10,7 +10,7 @@ description = "Submissions"
 * **February 1**: Call for abstracts opens
 * **April 26 (5pm BST)**: Call for abstracts closes
 * **May 8**: Notification of abstract decision
-* **September XX**: Submission of Birds-of-a-Feather sessions closes
+* **September 05**: Submission of Birds-of-a-Feather sessions closes
 
 <!--
 **Important Dates**
