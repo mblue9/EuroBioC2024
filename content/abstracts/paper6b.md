@@ -5,6 +5,6 @@ type: "blog"
 draft: false
 ---
 
-{{< abstracts paper="paper6">}}
+{{< abstracts paper="paper6b">}}
 
 
