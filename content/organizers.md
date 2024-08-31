@@ -29,7 +29,7 @@ Simone Bell
 | Charlotte Soneson | &nbsp; | Dario Righelli | &nbsp; | Davide Risso | &nbsp; | E. Ravza Gur | &nbsp; | Helena L. Crowell |
 | ![](../img/organizers/JamesDalgleish.png) | &nbsp; | ![](../img/organizers/JohannesRainer.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.png) | &nbsp; | ![](../img/organizers/LenaMorrillGavarro.jpg) |
 | James Dalgleish | &nbsp; | Johannes Rainer | &nbsp; | Kevin Rue-Albrecht | &nbsp; | Laurent Gatto | &nbsp; | Lena Morrill Gavarro |
-| ![](../img/organizers/LeoLahti.jpg) | &nbsp; | ![](../img/organizers/LievenClement.jpeg) | &nbsp; | ![](../img/organizers/MariaDoyle.jpeg) | &nbsp; | ![](../img/organizers/MStadler_FMI0142.jpg) | &nbsp; | ![](../img/organizers/avatar.png)
+| ![](../img/organizers/LeoLahti.jpg) | &nbsp; | ![](../img/organizers/LievenClement.jpeg) | &nbsp; | ![](../img/organizers/MariaDoyle.jpeg) | &nbsp; | ![](../img/organizers/MStadler_FMI0142.jpg) | &nbsp; | ![](../img/organizers/OliverCrook.jpg)
 | Leo Lahti | &nbsp; | Lieven Clement | &nbsp; | Maria Doyle | &nbsp; | Michael Stadler | &nbsp; | Oliver Crook |
 | ![](../img/organizers/RobertCastelo.jpeg) | &nbsp; | ![](../img/organizers/RobertIvanek.jpg) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/Wolfgang_Huber.jpg) | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 | Robert Castelo | &nbsp; | Robert Ivanek | &nbsp; | Simone Bell | &nbsp; | Wolfgang Huber | &nbsp; | &nbsp; |
